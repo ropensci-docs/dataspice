@@ -1,0 +1,10 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  populating-templates: populating-templates.html
+last_built: 2021-03-15T03:46Z
+urls:
+  reference: https://docs.ropensci.org/dataspice/reference
+  article: https://docs.ropensci.org/dataspice/articles
+

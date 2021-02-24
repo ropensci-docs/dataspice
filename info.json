@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "442c52df67ecc213080c2d1d931b20265ed5d10e",
+    "author": "Bryce Mecum <petridish@gmail.com>",
+    "time": "2021-02-24 01:19:25",
+    "files": 2,
+    "merge": false,
+    "message": "Add covr badge to readmes\n"
+  },
+  "remote": "https://github.com/ropenscilabs/dataspice",
+  "pkg": "dataspice"
+}
