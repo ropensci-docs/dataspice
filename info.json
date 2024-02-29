@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "f1e459a31fb2657df18839bb9c4ff5a90bc2ad39",
+    "author": "Bryce Mecum <petridish@gmail.com>",
+    "time": "2021-05-28 07:39:19",
+    "files": 10,
+    "merge": true,
+    "message": "Merge pull request #111 from robitalec/consistent-file-path\n\n"
+  },
+  "repo": "https://github.com/ropensci/dataspice",
+  "pkg": "dataspice"
+}
