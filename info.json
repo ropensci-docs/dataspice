@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "c09619847693979c07609ed51e2ff2307b2aeab3",
+    "author": "Bryce Mecum <petridish@gmail.com>",
+    "time": "2026-09-30T04:51:02Z",
+    "files": 2,
+    "merge": false,
+    "message": "Add DOCTYPE and lang attribute to HTML template (#124)"
+  },
+  "repo": "https://github.com/ropensci/dataspice",
+  "pkg": "dataspice",
+  "time": "2026-09-30T06:59:28Z"
+}
