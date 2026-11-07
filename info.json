@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "7cd41ecc64a1a90bbb39bd05abda38c7a7973b49",
+    "author": "Bryce Mecum <petridish@gmail.com>",
+    "time": "2026-11-06T20:56:05Z",
+    "files": 3,
+    "merge": false,
+    "message": "v1.2.1\n"
+  },
+  "repo": "https://github.com/ropensci/dataspice",
+  "pkg": "dataspice",
+  "time": "2026-11-07T01:07:02Z"
+}
